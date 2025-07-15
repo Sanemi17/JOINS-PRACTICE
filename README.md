@@ -62,7 +62,11 @@ FULL OUTER JOIN is best for audits or when you need a comprehensive view combini
 Through this task, I developed a deeper understanding of how data in normalized relational databases can be combined for meaningful insights. I understood the importance of join conditions, the role of primary and foreign keys, and how different joins serve different analytical purposes. It also enhanced my skills in writing efficient SQL queries, understanding NULL values, and working with real-world-like relational datasets.
 
 In conclusion, Task 1 was not only about practicing joins but also about understanding the core philosophy of relational data retrieval. Joins are essential for connecting the dots in a database and making raw data useful for analysis and reportiING. This task was a great foundation for more complex SQL operations that follow in later tasks.
+
+
 OUTPUTS
+
+
 "https://github.com/user-attachments/assets/0875e9eb-5831-4ebd-829c-9794654d9067"
 
 
@@ -70,3 +74,6 @@ OUTPUTS
 
 
 "https://github.com/user-attachments/assets/c5ecdd73-e3c7-4b54-ac70-951a91247073"
+
+
+"https://github.com/user-attachments/assets/2a391688-ebb0-44a6-b58a-6cc118495f90"
