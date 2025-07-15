@@ -1,12 +1,24 @@
 # JOINS-PRACTICE
+
 COMPANY NAME: CODTECH IT SOLUTIONS
+
+
 NAME: SANEMI VALECHA
+
+
 INTERN ID : CT04DZ135
+
+
 DOMAIN NAME: SQL
+
+
 DURATION: 4 WEEKS
+
+
 MENTOR: NEELA SANTOSH
 
-n relational databases, data is often stored in multiple tables that are logically related to each other. To retrieve meaningful information, it is crucial to combine this data based on relationships between tables. This process is accomplished using SQL JOIN operations, which are among the most powerful features in Structured Query Language (SQL). The purpose of Task 1 was to perform and demonstrate four different types of joins — INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL OUTER JOIN — to combine data meaningfully and retrieve complete results based on table relationships.
+
+In relational databases, data is often stored in multiple tables that are logically related to each other. To retrieve meaningful information, it is crucial to combine this data based on relationships between tables. This process is accomplished using SQL JOIN operations, which are among the most powerful features in Structured Query Language (SQL). The purpose of Task 1 was to perform and demonstrate four different types of joins — INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL OUTER JOIN — to combine data meaningfully and retrieve complete results based on table relationships.
 
 During this task, I worked with two sample tables: Employees and Departments. The Employees table contained basic information about employees including their name and department ID, while the Departments table contained department names associated with each department ID. The key relationship between these tables was established through the DepartmentID column. This column existed in both tables and acted as a foreign key in the Employees table, pointing to the Departments table.
 
@@ -52,4 +64,9 @@ Through this task, I developed a deeper understanding of how data in normalized 
 In conclusion, Task 1 was not only about practicing joins but also about understanding the core philosophy of relational data retrieval. Joins are essential for connecting the dots in a database and making raw data useful for analysis and reportiING. This task was a great foundation for more complex SQL operations that follow in later tasks.
 OUTPUTS
 "https://github.com/user-attachments/assets/0875e9eb-5831-4ebd-829c-9794654d9067"
+
+
 "https://github.com/user-attachments/assets/5e5a6635-52e9-42ed-b508-59ce9db02be5"
+
+
+"https://github.com/user-attachments/assets/c5ecdd73-e3c7-4b54-ac70-951a91247073"
