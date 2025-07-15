@@ -52,3 +52,4 @@ Through this task, I developed a deeper understanding of how data in normalized 
 In conclusion, Task 1 was not only about practicing joins but also about understanding the core philosophy of relational data retrieval. Joins are essential for connecting the dots in a database and making raw data useful for analysis and reportiING. This task was a great foundation for more complex SQL operations that follow in later tasks.
 OUTPUTS
 "https://github.com/user-attachments/assets/0875e9eb-5831-4ebd-829c-9794654d9067"
+"https://github.com/user-attachments/assets/5e5a6635-52e9-42ed-b508-59ce9db02be5"
